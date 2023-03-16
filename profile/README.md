@@ -24,8 +24,8 @@
 </br>
 
 
-# **🎉 YouTube UCC**
-![Video Label](https://cdn.discordapp.com/attachments/1072902318388953169/1075941347481092166/image.png)
+# **🎉 UCC**
+![UCC Youtube link](https://www.youtube.com/watch?v=eqvsx7ZYbE8)
 
 </br>
 </br>
