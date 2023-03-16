@@ -1,10 +1,4 @@
-<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075965810859847690/e138f2421738f026.png" alt="Pang! Party" height="320"><img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075937802480521326/Group_153.png" alt="Pang! Party" height="85">
-
-</br>  
-</br>  
-</br>  
-</br>  
-
+<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075965810859847690/e138f2421738f026.png" alt="Pang! Party" height="250"><img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075937802480521326/Group_153.png" alt="Pang! Party" height="85">
   
 
 # **🎉 Introduction**
@@ -16,9 +10,6 @@
 모두 함께 일상을 축하하고 공유하는 소셜 플랫폼, 팡파티를 소개합니다.
 
 𝓛𝓲𝓯𝓮'𝓼 𝓪 𝓟𝓪𝓻𝓽𝔂, 𝓟𝓪𝓷𝓰!𝓟𝓪𝓻𝓽𝔂
-
-</br>
-</br>
 
 
 # **🎉 UCC**
