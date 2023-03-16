@@ -26,8 +26,6 @@
 
 # **🎉 UCC**
 https://user-images.githubusercontent.com/50512938/225580014-3077b060-56ec-4f86-992e-094cb9113ac2.mp4
-</br>
-[Youtube에서 보기](https://youtu.be/eqvsx7ZYbE8)
 
 </br>
 </br>
