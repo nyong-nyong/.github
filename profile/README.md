@@ -1,4 +1,8 @@
-<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075965810859847690/e138f2421738f026.png" alt="Pang! Party" height="250"><img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075937802480521326/Group_153.png" alt="Pang! Party" height="85">
+<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075965810859847690/e138f2421738f026.png" alt="Pang! Party" height="250">
+
+[![이미지 텍스트](https://cdn.discordapp.com/attachments/1056854505192427576/1090537430760829048/blank2.png)](https://www.youtube.com/watch?v=eqvsx7ZYbE8)
+
+<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075937802480521326/Group_153.png" alt="Pang! Party" height="85">
 </br>
 </br>
 
@@ -19,9 +23,13 @@
 
 https://user-images.githubusercontent.com/50512938/228402393-835f2321-3ffb-4450-8097-b6e5e48beeea.mp4
 
+</br>  
 
+
+[![예제](https://cdn.discordapp.com/attachments/1056854505192427576/1090528300348227584/gotoyoutube.png)](https://www.youtube.com/watch?v=eqvsx7ZYbE8) 
 </br>
-</br>
+
+[![이미지 텍스트](https://cdn.discordapp.com/attachments/1056854505192427576/1090529913569808425/blank.png)](https://www.youtube.com/watch?v=eqvsx7ZYbE8)
 
 # **🎊 Language, Tech Stack**
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <br> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><br>
