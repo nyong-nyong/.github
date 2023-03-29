@@ -40,7 +40,8 @@ BackEnd: IntelliJ
 
 ```
 깃 저장소를 로컬에 복사합니다.
-git clone https://lab.ssafy.com/s03-bigdata-sub3/s03p23a306.git
+git clone https://github.com/nyong-nyong/pangparty-fe.git
+git clone https://github.com/nyong-nyong/pangparty-be.git
 ```
 </br>
 
