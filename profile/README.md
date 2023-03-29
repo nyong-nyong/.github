@@ -77,12 +77,12 @@ npm run build
 
 # **👨‍👩‍👦‍👦 Team NyongNyong**
 
-| name       | e-mail                                                    | role            |
-| ---------- | --------------------------------------------------------- | --------------- |
-| 👑 김영빈 | [randallkk.sw@gmail.com](mailto:randallkk.sw@gmail.com)   | CI/CD & BackEnd |
-| 🎁 강희연      | [heeyeonkang15@gmail.com](mailto:heeyeonkang15@gmail.com) | BackEnd         |
-| 🎈 정희주      | [kjyk0835@naver.com](mailto:kjyk0835@naver.com)           | BackEnd         |
-| 🎁 박다솜      | [dev.somda@gmail.com](mailto:dev.somda@gmail.com)         | FrontEnd        |
-| 🎈 김규연      | [claire3320@gmail.com](mailto:claire3320@gmail.com)       | FrontEnd        |
-| 🎁 유한별      | [hanbeul.you@gmail.com](mailto:hanbeul.you@gmail.com)     | FrontEnd        |
+| name       | role            |
+| ---------- | --------------- |
+| 👑 김영빈  | CI/CD & BackEnd |
+| 🎁 강희연  | BackEnd         |
+| 🎈 정희주| BackEnd         |
+| 🎁 박다솜 | FrontEnd        |
+| 🎈 김규연     | FrontEnd        |
+| 🎁 유한별    | FrontEnd        |
 
