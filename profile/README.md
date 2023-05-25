@@ -1,10 +1,4 @@
-<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075965810859847690/e138f2421738f026.png" alt="Pang! Party" height="250">
-
-[![이미지 텍스트](https://cdn.discordapp.com/attachments/1056854505192427576/1090537430760829048/blank2.png)](https://www.youtube.com/watch?v=eqvsx7ZYbE8)
-
-<img title="" src="https://cdn.discordapp.com/attachments/1072902318388953169/1075937802480521326/Group_153.png" alt="Pang! Party" height="85">
-</br>
-</br>
+![image](https://github.com/nyong-nyong/.github/assets/77232235/1c3ba21a-d0d8-41e0-aaf6-e5d45a3a64ed)
 
 # **🎉 Introduction**
 
